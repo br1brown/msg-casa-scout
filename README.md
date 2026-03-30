@@ -33,14 +33,6 @@ Il tuo nome, ruolo e gruppo vengono salvati nel browser per le volte successive.
 
 Tutto caricato da CDN, nessun build step. Installabile come PWA e funzionante offline.
 
-## Deploy
-
-Funziona su qualsiasi hosting statico. Per GitHub Pages:
-
-1. Pusha i file nella root del repo
-2. Vai in **Settings → Pages → Source** e seleziona il branch
-3. Fatto → `https://br1brown.github.io/msg-casa-scout/`
-
 ## Licenza
 
 MIT
