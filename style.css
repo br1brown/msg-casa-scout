@@ -1,0 +1,29 @@
+/* Override flatpickr per tema Bootstrap success */
+.flatpickr-day.selected,
+.flatpickr-day.selected:hover,
+.flatpickr-day.startRange,
+.flatpickr-day.endRange,
+.flatpickr-day.startRange:hover,
+.flatpickr-day.endRange:hover {
+  background: #198754;
+  border-color: #198754;
+}
+.flatpickr-day.inRange {
+  background: #d1e7dd;
+  border-color: #d1e7dd;
+  box-shadow: -5px 0 0 #d1e7dd, 5px 0 0 #d1e7dd;
+}
+.flatpickr-day.today {
+  border-color: #198754;
+}
+.flatpickr-day.today:hover {
+  background: #198754;
+  border-color: #198754;
+  color: #fff;
+}
+
+/* Icona +/- toggle partecipanti */
+#btn-toggle-partecipanti .icon-apri  { display: inline; }
+#btn-toggle-partecipanti .icon-chiudi { display: none; }
+#btn-toggle-partecipanti[aria-expanded="true"] .icon-apri  { display: none; }
+#btn-toggle-partecipanti[aria-expanded="true"] .icon-chiudi { display: inline; }

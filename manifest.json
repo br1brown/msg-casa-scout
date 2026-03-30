@@ -1,0 +1,17 @@
+{
+  "name": "Richiesta Casa Scout",
+  "short_name": "Casa Scout",
+  "description": "Genera messaggi per richiedere una casa scout in pochi secondi.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#198754",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

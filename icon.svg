@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#198754"/>
+  <!-- tetto -->
+  <path d="M256 100 L420 240 L400 240 L400 400 L112 400 L112 240 L92 240 Z" fill="none" stroke="#fff" stroke-width="28" stroke-linejoin="round"/>
+  <!-- cuore -->
+  <path d="M256 340 C220 310 180 280 180 250 C180 225 200 210 225 210 C240 210 252 220 256 228 C260 220 272 210 287 210 C312 210 332 225 332 250 C332 280 292 310 256 340Z" fill="#fff"/>
+</svg>
